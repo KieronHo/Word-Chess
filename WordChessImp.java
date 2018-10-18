@@ -6,7 +6,7 @@ import java.util.Queue;
 
 /**
  * 
- * @author Kieron Ho 20500057
+ * @author Kieron Ho
  * 
  * @version 05/09/2018
  *
